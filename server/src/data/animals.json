@@ -1,0 +1,248 @@
+[
+  {
+    "id": 1,
+    "uuid": "Sunfish",
+    "name": "Pez Mariposa",
+    "specie": "Quetodóntidos",
+    "diet": "Algas y microorganismos",
+    "length": "12 - 22 cm",
+    "description": "La familia Chaetodontidae o peces mariposa son un grupo de peces conspicuos tropicales marinos. Encontrados mayormente en arrecifes del Atlántico, Índico y Pacífico, son algo pequeños, de 12 a 22 cm de longitud (las más grandes especies, como Chaetodon lineolatus, llegan a 3 dm). Hay aproximadamente 127 especies en doce géneros. No deben confundirse con Pantodon buchholzi, de la familia Pantodontidae.",
+    "biology": "Son generalmente diurnos y de aguas superficiales de menos de 18 m (algunas sin embargo llegan hasta 180 m), y estos coralívoros son muy territoriales en el coral. En contraste, los que comen zooplancton forman grandes grupos conespecíficos. De noche permanecen en las hendeduras y grietas del arrecife y exhibe marcadas diferencias de coloración con el diurno.\n\nSon pelágicos de freza; o sea, mantienen sus huevos boyantes en el agua convirtiéndose en parte del plancton, flotando en las corrientes hasta la eclosión. Los pequeños seres pasan por el estadio tolichtis, donde el cuerpo del pez postlarval se cubre de láminas extendiéndose en su cabeza. Este estadio curioso, armado ocurre solo en otra sola familia de peces, Scatophagidae. Luego el pez pierde esas láminas al madurar.",
+    "moreInfo": "https://es.wikipedia.org/wiki/Chaetodontidae",
+    "img": "imgs/pez-mariposa.jpg",
+    "type": "animal",
+    "extintion": false,
+    "questions": [
+      {
+        "id": 1,
+        "animal": "Sunfish",
+        "question": "¿A cuantos metros de profundidad se encuentran este  tipo de peces?",
+        "answers": [
+          {
+            "key": 1,
+            "value": "50 metros"
+          },
+          {
+            "key": 2,
+            "value": "3 metros"
+          },
+          {
+            "key": 3,
+            "value": "18 metros"
+          },
+          {
+            "key": 4,
+            "value": "N.A"
+          }
+        ],
+        "correct": 3,
+        "points": 90,
+        "discount": 15
+      },
+      {
+        "id": 2,
+        "animal": "Sunfish",
+        "question": "¿En que tipo de oceanos se encuentran con frecuenta estas especies?",
+        "answers": [
+          {
+            "key": 1,
+            "value": "Oceano Atlántico"
+          },
+          {
+            "key": 2,
+            "value": "Oceano Pacífico"
+          },
+          {
+            "key": 3,
+            "value": "Todos los Oceanos"
+          },
+          {
+            "key": 4,
+            "value": "N.A"
+          }
+        ],
+        "correct": 1,
+        "points": 100,
+        "discount": 20
+      },
+      {
+        "id": 3,
+        "animal": "Sunfish",
+        "question": "¿Hasta cuanto llega a medir un Pez Mariposa?",
+        "answers": [
+          {
+            "key": 1,
+            "value": "40cm"
+          },
+          {
+            "key": 2,
+            "value": "28cm"
+          },
+          {
+            "key": 3,
+            "value": "15cm"
+          },
+          {
+            "key": 4,
+            "value": "22cm"
+          }
+        ],
+        "correct": 4,
+        "points": 80,
+        "discount": 15
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "uuid": "CoralGrouper",
+    "name": "Pez Ángel",
+    "specie": "Pterophyllun scalare",
+    "diet": "Omnivoros",
+    "length": "15 - 20 cm",
+    "description": "El pez Ángel o pez Escalar, Pterophyllun scalare, es un pez de la familia de los cíclidos de agua dulce y caliente.\nDentro de los cíclidos, el pez Ángel pertenece a la subfamilia Cichlasomatine, que a su vez se divide en tres tribus diferentes: Acaroniini, Heroini y Cichlasomatini.",
+    "biology": "Existe más subdivisiones. El pez Ángel, pertenece al género Pterophyllun (hoja con alas), de la tribu Heroini, especies endémicas de América del Sur.",
+    "moreInfo": "https://es.wikipedia.org/wiki/Pterophyllum_scalare",
+    "img": "imgs/pez-angel.jpg",
+    "type": "animal",
+    "extintion": false,
+    "questions": [
+      {
+        "id": 10,
+        "animal": "CoralGrouper",
+        "question": "¿Qué nombre científico tiene el Pez Angel?",
+        "answers": [
+          {
+            "key": 1,
+            "value": "Quetodóntidos"
+          },
+          {
+            "key": 2,
+            "value": "Pterophyllun scalare"
+          },
+          {
+            "key": 3,
+            "value": "Layurhan Tynlare"
+          },
+          {
+            "key": 4,
+            "value": "N.A"
+          }
+        ],
+        "correct": 2,
+        "points": 100,
+        "discount": 20
+      },
+      {
+        "id": 11,
+        "animal": "CoralGrouper",
+        "question": "¿Qué tipo de dieta ejecuta el Pez Ángel?",
+        "answers": [
+          {
+            "key": 1,
+            "value": "Omnivoros"
+          },
+          {
+            "key": 2,
+            "value": "Algas y microorganismos"
+          },
+          {
+            "key": 3,
+            "value": "Solo microorganismos"
+          },
+          {
+            "key": 4,
+            "value": "Solo Algas"
+          }
+        ],
+        "correct": 1,
+        "points": 75,
+        "discount": 5
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "uuid": "Turtle",
+    "name": "Tortuga Verde del Pacífico",
+    "specie": "Chelonia mydas",
+    "diet": "Medusas",
+    "length": "120 - 130 cm",
+    "weight": "150 kg",
+    "description": "La tortuga verde (Chelonia mydas) es una especie de tortuga marina de la familia Cheloniidae. Es ilegal capturar, dañar o matar tortugas de este tipo. La población de estas tortugas aún está en peligro de extinción debido a algunas prácticas humanas. La contaminación daña también indirectamente a las poblaciones de tortugas. Muchas tortugas quedan atrapadas en las redes de pesca y mueren ahogadas.",
+    "biology": "Anatómicamente, hay algunas características que distinguen a la tortuga verde de los demás miembros de su familia. A diferencia de su pariente cercano, la tortuga carey, el hocico de la tortuga verde es muy corto y su pico no tiene forma de gancho. La vaina callosa de la mandíbula superior de la tortuga posee un borde ligeramente denticulado, mientras que su mandíbula inferior tiene una denticulación más fuerte, serrada y definida. La superficie dorsal de la cabeza de la tortuga tiene un solo par de escamas frontales.",
+    "moreInfo": "https://es.wikipedia.org/wiki/Chelonia_mydas",
+    "img": "imgs/tortuga-verde.jpg",
+    "type": "animal",
+    "extintion": true,
+    "extintionQuantity": 120,
+    "extintionPlan": [
+      {
+        "title": "Reduce",
+        "resume": "Cada plástico que no compras es una pieza menos en el océano. Si dejas de comprar plásticos, enviarás una señal a empresas de todo el mundo para que reduzcan sus empaques plásticos."
+      },
+      {
+        "title": "Evita plásticos de un solo uso",
+        "resume": "Utiliza una bolsa de tela para tus compras y opta por popotes reutilizables de papel o acero. Ten cuidado con plásticos ocultos como las bolsas de té, goma de mascar, toallitas húmedas y vasos para llevar “de papel” para café. Éstas últimas suelen estar forradas de plástico."
+      },
+      {
+        "title": "Evita los microplásticos",
+        "resume": "Las piezas de plástico de menos de 5 mm de longitud son los llamados microplásticos. Las han encontrado en todas partes: desde la parte más profunda de la Fosa de las Marianas hasta el interior de animales y humanos."
+      }
+    ],
+    "questions": [
+      {
+        "id": 20,
+        "animal": "Turtle",
+        "question": "¿Qué nombre científico tiene el la Tortuga verde?",
+        "answers": [
+          {
+            "key": 1,
+            "value": "Chelonia mydas"
+          },
+          {
+            "key": 2,
+            "value": "Pterophyllun scalare"
+          },
+          {
+            "key": 3,
+            "value": "Chelonya Tynlare"
+          },
+          {
+            "key": 4,
+            "value": "N.A"
+          }
+        ],
+        "correct": 1,
+        "points": 100,
+        "discount": 20
+      },
+      {
+        "id": 21,
+        "animal": "Turtle",
+        "question": "¿Aproximadamente cuánto pesa una Tortuga Verde?",
+        "answers": [
+          {
+            "key": 1,
+            "value": "50 kg"
+          },
+          {
+            "key": 2,
+            "value": "150 kg"
+          },
+          {
+            "key": 3,
+            "value": "200 kg"
+          },
+          {
+            "key": 4,
+            "value": "90 kg"
+          }
+        ],
+        "correct": 2,
+        "points": 50,
+        "discount": 5
+      }
+    ]
+  }
+]
